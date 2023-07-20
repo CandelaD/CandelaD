@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/CandelaD/CandelaD/blob/main/rrr.jpeg
+[Image text](https://github.com/CandelaD/CandelaD/blob/main/rrr.jpeg)
 <!--
 **CandelaD/CandelaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
